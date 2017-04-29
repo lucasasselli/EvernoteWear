@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.lucasasselli.simplewearlist.IconItemLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center_vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <android.support.wearable.view.CircledImageView
+        android:id="@+id/icon"
+        android:layout_gravity="center_vertical"
+        android:layout_marginStart="@dimen/circle_margin_start"
+        android:layout_marginEnd="@dimen/circle_margin_end"
+        android:layout_width="@dimen/circle_size"
+        android:layout_height="@dimen/circle_size"
+        app:circle_color="#00000000"
+        app:circle_border_color="#FFFFFFFF"
+        app:circle_border_width="@dimen/circle_border"/>
+    <TextView
+        android:id="@+id/title"
+        android:gravity="center_vertical"
+        android:fontFamily="sans-serif-condensed-light"
+        android:textColor="@color/white"
+        android:textSize="@dimen/list_title_size"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</com.lucasasselli.simplewearlist.IconItemLayout>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Common -->
+    <color name="primary">#2DBE60</color>
+    <color name="primary_dark">#1E7F40</color>
+    <color name="accent">#00c7a0</color>
+    <color name="background_light">#ffffff</color>
+    <color name="text_light">#ffffff</color>
+    <color name="text_dark">#424242</color>
+    <color name="text_dark_secondary">#848484</color>
+
+    <!-- Ambient Mode -->
+    <color name="ambient_white">#ffffff</color>
+    <color name="ambient_black">#000000</color>
+    <color name="ambient_grey">#848484</color>
+</resources>

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Evernote Wear</string>
+
+    <!-- Main Activity -->
+    <string name="title_activity_main">Evernote</string>
+    <string name="title_activity_list">Notes</string>
+    <string name="title_activity_search">Results</string>
+
+    <string name="menu_main_search">Search</string>
+    <string name="menu_main_write">Write note</string>
+    <string name="menu_main_read">Read notes</string>
+    <string name="menu_main_refresh">Refresh</string>
+
+    <!-- List Activity -->
+    <string name="list_error_empty">Account has no notes</string>
+    <string name="search_error_noresult">No result for query</string>
+
+    <!-- Write Activity -->
+    <string name="write_note_title">Note</string>
+    <string name="write_saving_pending">Saving…</string>
+
+    <string name="write_error_empty">Unable to add empty note</string>
+    <string name="write_error_no_device">Unable to connect to mobile device</string>
+    <string name="write_error_no_response">Mobile device not responding</string>
+    <string name="write_error_no_evernote">Unable to connect to Evernote</string>
+
+    <!-- Write Activity -->
+    <string name="footer_button_add">Add</string>
+    <string name="footer_button_delete">Delete</string>
+    <string name="footer_button_rename">Rename</string>
+    <string name="footer_button_phone">Open on phone</string>
+
+</resources>

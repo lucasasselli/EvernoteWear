@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Evernote Wear</string>
+
+    <string name="title_activity_main">Evernote Wear</string>
+    <string name="title_activity_setup">setup</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="menu_action_refresh">Refresh</string>
+
+    <!-- Setup -->
+    <string name="setup_slide_welcome_title">Welcome!</string>
+    <string name="setup_slide_welcome_description">Before you can use this app we must first do a few things. Don\'t worry, it won\'t take long!</string>
+
+    <string name="setup_slide_login_title">Login</string>
+    <string name="setup_slide_login_description">Enter your Evernote login. If you have more than one account you can change it later in the settings</string>
+
+    <string name="setup_slide_alldone_title">All done!</string>
+    <string name="setup_slide_alldone_description">You are ready to use Evernote Wear!</string>
+
+    <!-- SyncManager -->
+    <string name="notification_sync_running_title">Syncing notes</string>
+    <string name="notification_sync_running">Getting notes from server…</string>
+    <string name="notification_failed_title">Unable to sync notes</string>
+    <string name="notification_failed">Tap to try again</string>
+
+    <!-- Preferences Entries -->
+    <string-array name="pref_title_mode_entries">
+        <item>Progressive</item>
+        <item>Current date</item>
+    </string-array>
+
+    <string-array name="pref_sync_amount_entries">
+        <item>10</item>
+        <item>20</item>
+        <item>40</item>
+        <item>80</item>
+    </string-array>
+
+    <string-array name="pref_sync_frequency_entries">
+        <item>Never</item>
+        <item>Every 15 minutes</item>
+        <item>Every 30 minutes</item>
+        <item>Every Hour</item>
+    </string-array>
+
+    <string name="pref_account_empty_title">No Account</string>
+    <string name="pref_account_empty_summary">Tap to login…</string>
+    <string name="pref_account_loading">Loading info…</string>
+    <string name="pref_account_lastsync">Last sync</string>
+
+    <string name="pref_title_creator">Created with love by</string>
+    <string name="pref_title_version">Version</string>
+</resources>

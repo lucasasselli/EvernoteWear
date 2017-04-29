@@ -1,0 +1,20 @@
+<resources>
+    <!-- List -->
+    <dimen name="header_padding">60dp</dimen>
+    <dimen name="round_padding">30dp</dimen>
+
+    <!-- List Item -->
+    <dimen name="list_title_size">16sp</dimen>
+
+    <!-- List text item -->
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="list_description_size">14sp</dimen>
+
+    <!-- List item circle -->
+    <dimen name="circle_margin_start">6dp</dimen>
+    <dimen name="circle_margin_end">16dp</dimen>
+    <dimen name="circle_size">52dp</dimen>
+    <dimen name="circle_border">2dp</dimen>
+    <dimen name="circle_radius_small">20dp</dimen>
+    <dimen name="circle_radius_big">24dp</dimen>
+</resources>

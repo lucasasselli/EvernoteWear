@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Preference Keys-->
+    <string name="pref_account_key">account</string>
+    <string name="pref_wifi_only_key">wifi_only</string>
+    <string name="pref_sync_amount_key">sync_amount</string>
+    <string name="pref_sync_frequency_key">sync_frequency</string>
+    <string name="pref_show_notifications_key">show_notifications</string>
+    <string name="pref_title_key">title</string>
+    <string name="pref_title_mode_key">title_mode</string>
+    <string name="pref_default_notebook_key">default_notebook</string>
+
+    <!-- Preference Values -->
+    <string-array name="pref_title_mode_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+
+    <string-array name="pref_sync_amount_values">
+        <item>10</item>
+        <item>20</item>
+        <item>40</item>
+        <item>80</item>
+    </string-array>
+
+    <string-array name="pref_sync_frequency_values">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+
+    <!-- Preference Default -->
+    <bool name="pref_wifi_only_default">false</bool>
+    <string name="pref_sync_amount_default">10</string>
+    <string name="pref_sync_frequency_default">15</string>
+    <bool name="pref_show_notifications_default">false</bool>
+    <string name="pref_title_default">Wear Note</string>
+    <string name="pref_title_mode_default">0</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- List -->
+    <color name="background">#2DBE60</color>
+    <color name="text_light">#ffffff</color>
+
+    <!-- Item -->
+    <color name="item_text">#ffffff</color>
+    <color name="item_circle">#ffffff</color>
+    <color name="item_image">#ffffff</color>
+
+    <!-- Ambient Mode -->
+    <color name="ambient_white">#ffffff</color>
+    <color name="ambient_black">#000000</color>
+</resources>

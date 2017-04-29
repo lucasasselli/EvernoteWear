@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <android.support.wearable.view.WearableListView
+        android:id="@+id/list"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:scrollbars="none"
+        android:dividerHeight="0dp">
+    </android.support.wearable.view.WearableListView>
+    <TextView
+        android:id="@+id/header"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/header_padding"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:gravity="bottom"
+        android:textSize="24sp"
+        android:text="PLACEHOLDER"
+        android:textColor="@color/text_light"
+        android:layout_marginBottom="10dp" />
+</RelativeLayout>

@@ -1,0 +1,22 @@
+<resources>
+    <!-- Common -->
+    <dimen name="small_text_size">14sp</dimen>
+    <dimen name="medium_text_size">16sp</dimen>
+    <dimen name="big_text_size">18sp</dimen>
+
+    <dimen name="generic_margin">16dp</dimen>
+    <dimen name="generic_margin_round">30dp</dimen>
+    <dimen name="header_margin">48dp</dimen>
+    <dimen name="footer_margin">24dp</dimen>
+    <dimen name="condensed_margin">8dp</dimen>
+
+    <dimen name="clock_margin">10dp</dimen>
+
+    <!-- Loading Activity -->
+    <dimen name="loading_text_margin">16dp</dimen>
+
+    <!-- Write Activity -->
+    <dimen name="write_dismiss_radius">30dp</dimen>
+    <dimen name="write_dismiss_border">6dp</dimen>
+    <dimen name="write_dismiss_margin">8dp</dimen>
+</resources>
